@@ -6,12 +6,12 @@ Werk een functionaliteit uit die je kunt bedienen met 'click' en nog een user in
 ## Werkwijze
 Bedenk een functionaliteit die je op meerdere manieren kunt bedienen. Schets eerst hoe de functionaliteit er uit komt te zien. Maak daarna een breakdown-schets van hoe de verschillende elementen technisch moeten gaan werken...
 
-Codeer de functionaliteit in HTML,CSS en JavaScript en test verschillende versies van je ontwerp in een browser.
+Codeer de functionaliteit in HTML, CSS en JavaScript en test verschillende versies van je ontwerp in een browser.
 
 ## Planning
 1. Les 3: Briefing opdracht 2 en beginnen met schetsen en coderen
 2. Les 4: Eerste versie testen
-2. Les 5: Oplevering en beoordeling
+3. Les 5: Oplevering en beoordeling
 
 
 ## Voorbeeld functionaliteit die je kunt maken
