@@ -32,7 +32,7 @@ Kies een van de Use Cases, schets eerst een ontwerp voor de interactie. Codeer i
 
 
 ### Resources per use case
-- Dit is wat een goede resource om je een microinteractie te maken met javascript: [Hey designers, if you only know one thing about JavaScript, this is what I would recommend](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
+- Dit is een goede resource om een microinteractie te maken met Javascript: [Hey designers, if you only know one thing about JavaScript, this is what I would recommend](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
 - Dit is een goede uitleg van [Drag & Drop](https://developer.mozilla.org/en-US/docs/Web/API/Document/drag_event). Handig voor Use case 3.
 - Met [QuerySelectAll ](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) kun je gebruiken om  meerdere elementen te selecteren. Handig voor de 4e use case.
 
