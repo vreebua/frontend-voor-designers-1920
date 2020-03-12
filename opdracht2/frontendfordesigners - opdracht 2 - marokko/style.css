@@ -1,0 +1,46 @@
+body {
+    background-color: beige;
+    background-image: url('/images/culture-background-morocco-arabic-moroccan_1203-5669.jpg');
+    background-position: center;
+    background-repeat: repeat-y;
+    border: solid;
+    color: white;
+    font-family: Georgia;
+    padding: 1em;
+    text-align: center;
+    text-shadow: 1px 1px 2px saddlebrown;
+}
+
+h1 {
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 13pt;
+}
+
+img {
+    border: solid;
+    border-radius: 20px;
+    height: 27em;
+    transition: width 1s;
+    width: 19em;
+}
+
+
+button {
+    background-color: floralwhite;
+    border: none;
+    border-radius: 0.5em;
+    border-bottom: solid;
+    border-right: solid;
+    color: saddlebrown;
+    font-family: Georgia;
+    padding: 0.5em;
+    margin-top: 0;
+    margin: 0.5em;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
